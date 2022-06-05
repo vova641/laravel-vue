@@ -8,3 +8,4 @@ Laravel-vue
 #4 php artisan migrate // миграция таблиц db
 #5 php artisan serve // запуск локального сервера
 ```
+![Главная]([https://myoctocat.com/assets/images/base-octocat.svg](https://t.me/c/1255897318/46))
