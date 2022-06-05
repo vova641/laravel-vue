@@ -1,7 +1,8 @@
 # laravel-vue
 ## Технологии 
 ![Laravel](https://img.shields.io/badge/-Laravel-000000?style=for-the-badge&logo=Laravel) ![Vue](https://img.shields.io/badge/-Vue.Js-000000?style=for-the-badge&logo=Vue.js)
-// как запустить
+
+##как запустить
 ```
 #1 npm i // подкачка покетов npm
 #2 npm run watch // запуск компилятора
