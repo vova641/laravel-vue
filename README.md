@@ -5,8 +5,8 @@
 ## Как запустить
 ```
 #1 npm i // подкачка пакетов npm.
-#2 npm run watch // запуск компилятора
-#3 composer update // composer i // обновление .env файла
+#2 composer i // composer update // обновление .env файла
+#3 npm run watch // запуск компилятора
 #4 php artisan migrate // миграция таблиц db
 #5 php artisan serve // запуск локального сервера
 ```
