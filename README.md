@@ -11,6 +11,6 @@
 ```
 ## Как изменить
 ```
-    resources\js\..
+    resources\js\pagen
 ```
 ![Главная](https://sun5-4.userapi.com/s/v1/if2/t7IqkbjqndLEPgLt1jmLiD_b-geUAV7cVbwKGh64HiqtM3pu5pHtXwoVJXeAqP8FHFpG7CbnFwLw9GuXzl0nlkhZ.jpg?size=1902x802&quality=95&type=album)
